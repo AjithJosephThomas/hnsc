@@ -2,7 +2,7 @@ import React, {PureComponent} from 'react';
 
 
 const search = ({queryStr, isSearching, onSubmitAction}) =>(
-  <div className="form-group text-left">
+  <div>
       <h6>Search:</h6>
 
       <div className="input-group">
