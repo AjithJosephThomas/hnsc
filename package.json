@@ -1,0 +1,36 @@
+{
+  "name": "hnsc",
+  "version": "0.1.0",
+  "author": "ajithjosephthomas@gmail.com",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "html-react-parser": "^0.6.1",
+    "i": "^0.3.6",
+    "npm": "^6.8.0",
+    "rc-pagination": "^1.17.8",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
+    "react-s-alert": "^1.4.1",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
